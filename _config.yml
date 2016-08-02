@@ -1,0 +1,14 @@
+layout_spectrum: 0.5629393137060106
+typography_spectrum: 0.8124368363060057
+color:
+  brandStrength: 0.15428808680735528
+  lightness: 0.9210578750353307
+  saturation: 0.5924310460686684
+  rhythmicContrast: 0.6308008104097098
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Wisdom
