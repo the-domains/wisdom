@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wise Words From Others]]></title>
+        <description><![CDATA[Wise Words From Others]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 00:09:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A designer's guide to Parkinson's Law of Triviality - GV Library]]></title>
+            <description><![CDATA[<article><h1>A designer's guide to Parkinson's Law of Triviality - GV Library</h1><p>What to do when your team is focused on unimportant details Last week, I met with two companies that are building incredibly complex, ambitious medical products. One of the companies is trying to fundamentally improve cancer outcomes in a way that could save millions of lives.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e3941e6ddd5aa169662ca45a37aa637/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*oJZZkrnqX1zRMjuIpl9M-Q.jpeg"></article>]]></description>
+            <link>https://library.gv.com/a-designers-guide-to-parkinson-s-law-of-triviality-86484cb79526#.u2roslbdm</link>
+            <guid isPermaLink="false">1d39e483-549f-40c5-86bd-bbfcfea4606d</guid>
+            <pubDate>Tue, 02 Aug 2016 00:09:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
