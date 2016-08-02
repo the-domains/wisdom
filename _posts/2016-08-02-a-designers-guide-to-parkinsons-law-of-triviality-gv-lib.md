@@ -1,8 +1,19 @@
 ---
-author:
-  - name: Daniel Burka
-    url: 'https://library.gv.com/@dburka'
-    avatar: {}
+datePublished: '2016-08-02T00:10:04.167Z'
+sourcePath: _posts/2016-08-02-a-designers-guide-to-parkinsons-law-of-triviality-gv-lib.md
+isBasedOnUrl: >-
+  https://library.gv.com/a-designers-guide-to-parkinson-s-law-of-triviality-86484cb79526#.u2roslbdm
+keywords:
+  - project
+  - powerpoint
+  - designer
+  - people
+  - bikeshedding
+  - parkinson
+  - trivial
+  - shed
+  - focus
+  - bike
 related:
   - score: 0.5015699267
     description: >-
@@ -16,28 +27,13 @@ related:
     thumbnail_url: >-
       http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/8A0V9qL9TTic0g9CdcXm_Dave%20Hero.jpg
     thumbnail_width: 640
-publisher:
-  url: 'https://library.gv.com'
-  name: Medium
-  favicon: 'https://cdn-images-1.medium.com/fit/c/128/128/1*G4EGxHZT1hVbtmYh-NKiUQ.png'
-  domain: library.gv.com
-keywords:
-  - project
-  - powerpoint
-  - designer
-  - people
-  - bikeshedding
-  - parkinson
-  - trivial
-  - shed
-  - focus
-  - bike
-description: >-
-  What to do when your team is focused on unimportant details Last week, I met
-  with two companies that are building incredibly complex, ambitious medical
-  products. One of the companies is trying to fundamentally improve cancer
-  outcomes in a way that could save millions of lives.
-inLanguage: en
+author:
+  - name: Daniel Burka
+    url: 'https://library.gv.com/@dburka'
+    avatar: {}
+via: {}
+dateModified: '2016-08-02T00:10:03.831Z'
+title: A designer's guide to Parkinson's Law of Triviality - GV Library
 app_links:
   - type: android
     namespace: ai
@@ -64,14 +60,18 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-isBasedOnUrl: >-
-  https://library.gv.com/a-designers-guide-to-parkinson-s-law-of-triviality-86484cb79526#.u2roslbdm
-title: A designer's guide to Parkinson's Law of Triviality - GV Library
-datePublished: '2016-08-02T00:09:16.998Z'
-dateModified: '2016-08-02T00:08:52.319Z'
-via: {}
+publisher:
+  url: 'https://library.gv.com'
+  name: Medium
+  favicon: 'https://cdn-images-1.medium.com/fit/c/128/128/1*G4EGxHZT1hVbtmYh-NKiUQ.png'
+  domain: library.gv.com
+description: >-
+  What to do when your team is focused on unimportant details Last week, I met
+  with two companies that are building incredibly complex, ambitious medical
+  products. One of the companies is trying to fundamentally improve cancer
+  outcomes in a way that could save millions of lives.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-02-a-designers-guide-to-parkinsons-law-of-triviality-gv-lib.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -79,4 +79,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>A designer's guide to Parkinson's Law of Triviality - GV Library</h1><p>What to do when your team is focused on unimportant details Last week, I met with two companies that are building incredibly complex, ambitious medical products. One of the companies is trying to fundamentally improve cancer outcomes in a way that could save millions of lives.</p><img src="https://cdn-images-1.medium.com/max/2000/1*oJZZkrnqX1zRMjuIpl9M-Q.jpeg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e3941e6ddd5aa169662ca45a37aa637/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*oJZZkrnqX1zRMjuIpl9M-Q.jpeg" /><h1>A designer's guide to Parkinson's Law of Triviality - GV Library</h1><p>What to do when your team is focused on unimportant details Last week, I met with two companies that are building incredibly complex, ambitious medical products. One of the companies is trying to fundamentally improve cancer outcomes in a way that could save millions of lives.</p></article>
+
+> Daniel is a nice guy. Also smart.
